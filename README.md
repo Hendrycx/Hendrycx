@@ -1,5 +1,3 @@
-# 💫 About Me:
-Improving my Java skills by building small projects and exploring object-oriented programming. And Python Automations<br>Open-source projects or educational applications where I can contribute and learn at the same time.<br>Best practices in Java, Git workflows, and integrating Java applications with databases.<br>Java, Git, data structures, algorithms, and clean code principles.<br>Java development, IntelliJ IDEA, programming logic, Python projects and beginner-friendly tech topics.<br>I enjoy creating small projects just to experiment.
 
 
 ## 🌐 Socials:
